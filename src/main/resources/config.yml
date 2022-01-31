@@ -1,0 +1,11 @@
+# Storage type = 'JSON' or 'MONGO'
+STORAGE: 'JSON'
+
+# Just needed if STORAGE = 'MONGO'
+MONGO:
+  HOST: 127.0.0.1
+  PORT: 27017
+  AUTH:
+    ENABLED: false
+    USER: ''
+    PASS: ''

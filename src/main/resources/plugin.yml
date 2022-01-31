@@ -1,0 +1,5 @@
+name: ${project.artifactId}
+main: dev.maykol.red.Red
+version: ${project.version}
+
+author: Maykol
